@@ -12,7 +12,7 @@
 
   
 ## Education & Certification
-- 숭실대학교 소프트웨어학부 | 2026.03 ~
+- 숭실대학교 소프트웨어학부 | 2021.03 ~
 - 숭실대학교 Co-op 클라우드 트랙 쿠버네티스 과정 | 2025.12 ~ 2026.01
 - Comento 직무 부트캠프 리눅스 기반 Web - WAS - DB 서버 구축 과정 | 2026.06 ~ 2026.07
 - 잇다 취업 동아리 중심 멘토링 | 2026.09 ~ 2026.10
@@ -45,6 +45,9 @@
   - QEMU 프로세스 PID를 사용하여 QEMU 프로세스별 cgroup의 도메인 스레드 탐색(PSI 파싱을 위함)
   - Nova 메타데이터(인스턴스 이름, 인스턴스 타입 등)와 VM 별 PSI 지표를 하나로 묶어서 Prometheus로 노출
   - webhook, Nova API를 활용한 VM 라이브 마이그레이션
+
+  Result
+  - 2026 한국정보처리학회 ASK(Annual Conference of KIPS) 게재
 
    
 ## Tech Skills
