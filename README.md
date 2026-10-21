@@ -45,3 +45,28 @@
   - QEMU 프로세스 PID를 사용하여 QEMU 프로세스별 cgroup의 도메인 스레드 탐색(PSI 파싱을 위함)
   - Nova 메타데이터(인스턴스 이름, 인스턴스 타입 등)와 VM 별 PSI 지표를 하나로 묶어서 Prometheus로 노출
   - webhook, Nova API를 활용한 VM 라이브 마이그레이션
+
+   
+## Tech Skills
+<div align="center">
+
+<!-- 1~5번째 배지 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<br>
+
+<!-- 6~10번째 배지 -->
+<img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white">
+<img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white">
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/Rocky%20Linux-%2310B981.svg?style=for-the-badge&logo=rockylinux&logoColor=white">
+<br>
+
+<!-- 11번째 배지 -->
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+
+</div>
