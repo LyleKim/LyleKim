@@ -36,7 +36,7 @@
 
 - ### [qemu-exporter](https://github.com/LyleKim/qemu-exporter)
 
-  openStack-Helm기반 OpenStack에서 배포된 VM의 PSI 지표를 프로메테우스로 노출시키는 관측기
+  openStack-Helm기반 OpenStack에서 배포된 VM의 PSI 지표를 Prometheus로 노출시키는 관측기
 
   Technical Highlights  
   - libvirt 파드 -> QEMU 프로세스 동작에 대한 이해
